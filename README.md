@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Uzair Manzoor.<br>🧑🏻‍💻 I am a self taught computer enthusiast.<br>🤝 I’m looking for help with CS CORE Subjects.<br>📒 I’m currently learning CCNA, Linux System Administrator & C++.
+👋 Hi, I’m Uzair Manzoor.<br>🧑🏻‍💻 I am a self taught computer science student.<br>🤝 I’m looking for help with CS CORE Subjects.<br>📒 I’m currently learning CCNA, Linux System Administrator & C++.
 
 
 ## 🌐 Socials:
