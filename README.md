@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Uzair Manzoor<br>I love Computer, Programming, Linux and Cybersecurity
+Hi, my name is Uzair Manzoor<br>I love Computers, Programming, Linux and Cybersecurity
 
 
 ## 🌐 Socials:
